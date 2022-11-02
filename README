@@ -1,0 +1,7 @@
+Group Project for CSE527
+
+Data:
+	Data were downloaded from CbioPortial. The study where data is extracted for studying the metastasis of colorectal cancer.Please see Metastatic Colorectal Cancer (MSKCC, Cancer Cell 2018).
+	clinical_data.csv is the raw clinical data.
+	mutations_data_binned.csv includes information of selected mutations.
+	selected mutations are are mutations that has freqency >= 0.2%. The names of these genes are in frequent_mutated_genes.txt 
